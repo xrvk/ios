@@ -366,7 +366,7 @@ extension BitwardenSdk.Cipher {
             bankAccount: nil, // TODO: PM-32809
             driversLicense: nil, // TODO: PM-32807
             passport: nil, // TODO: PM-32805
-            favorite:model.favorite,
+            favorite: model.favorite,
             reprompt: BitwardenSdk.CipherRepromptType(model.reprompt),
             organizationUseTotp: model.organizationUseTotp,
             edit: model.edit,
@@ -414,7 +414,7 @@ extension BitwardenSdk.Cipher {
             bankAccount: nil, // TODO: PM-32809
             driversLicense: nil, // TODO: PM-32807
             passport: nil, // TODO: PM-32805
-            favorite:originalCipher?.favorite ?? false,
+            favorite: originalCipher?.favorite ?? false,
             reprompt: BitwardenSdk.CipherRepromptType(model.reprompt),
             organizationUseTotp: model.organizationUseTotp,
             edit: originalCipher?.edit ?? true,

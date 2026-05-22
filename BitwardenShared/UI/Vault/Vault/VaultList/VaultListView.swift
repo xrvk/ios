@@ -719,6 +719,7 @@ struct VaultListView_Previews: PreviewProvider {
                                 Organization(
                                     enabled: true,
                                     id: "",
+                                    isProviderUser: false,
                                     key: nil,
                                     keyConnectorEnabled: false,
                                     keyConnectorUrl: nil,
