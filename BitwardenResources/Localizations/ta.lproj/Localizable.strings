@@ -50,6 +50,7 @@
 "Move" = "நகர்த்து";
 "Saving" = "Saving…";
 "Settings" = "அமைவுகள்";
+"ShowNextCode" = "Show next code";
 "ItemDeleted" = "உருப்படி நீக்கப்பட்டது";
 "Submit" = "சமர்ப்பி";
 "UseFingerprintToUnlock" = "கைரேகை பயன்படுத்தி பூட்டவிழ்";
@@ -382,7 +383,7 @@
 "MasterPasswordPolicyValidationTitle" = "செல்லாத கடவுச்சொல்";
 "MasterPasswordPolicyValidationMessage" = "கடவுச்சொல் நிறுவன தேவைகளை சந்திக்கவில்லை. கொள்கை தகவலை சரிபார்த்து மீண்டும் முயலவும்.";
 "Loading" = "ஏற்றுகிறது";
-"LoadingSubscription" = "Loading subscription...";
+"LoadingSubscription" = "Loading subscription…";
 "AcceptPoliciesError" = "சேவை விதிமுறைகளும் தனியுரிமைக் கொள்கையும்  ஒப்புக்கொள்ளப்படவில்லை.";
 "PrivacyPolicy" = "தனியுரிமை கொள்கை";
 "PersonalOwnershipPolicyInEffect" = "ஒரு நிறுவன கொள்கை உம் உரிமை விருப்பங்களைப் பாதிக்கிறது.";
@@ -748,6 +749,7 @@
 "BitwardenTools" = "பிட்வார்டன் கருவிகள்";
 "ImportSuccessful" = "இறக்குமதி வெற்றிகரமாக முடிந்தது!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "இணையம் மற்றும் டெஸ்க்டாப்பிற்கான பிட்வார்டன் கருவிகளுடன் எங்கிருந்தும் உங்கள் உள்நுழைவுகளை நிர்வகிக்கவும்.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "உலாவி நீட்டிப்பைப் பதிவிறக்கு";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "தடையற்ற அனுபவத்திற்காக பிட்வார்டனை உங்களுக்கு பிடித்த உலாவியில் ஒருங்கிணைக்க bitwarden.com/download க்குச் செல்லவும்.";
 "UseTheWebApp" = "இணைய பயன்பாட்டைப் பயன்படுத்தவும்";
@@ -772,6 +774,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "தேர்ந்தெடுக்கப்பட்ட பொருளை நகர்த்த முடியவில்லை. மீண்டும் முயற்சிக்கவும்.";
 "Done" = "முடிந்தது";
 "Next" = "அடுத்து";
+"NextCode" = "Next code";
 "CopyPublicKey" = "பொது விசையை நகலெடு";
 "CopyPrivateKey" = "தனிப்பட்ட விசையை நகலெடு";
 "CopyFingerprint" = "கைரேகையை நகலெடு";
@@ -1005,6 +1008,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Once archived, this item will be excluded from search results and autofill suggestions.";
 "ArchiveUnavailable" = "Archive unavailable";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Archiving items is a Premium feature. Your current plan does not include access to this feature.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "Attachments unavailable";
 "UpgradeToPremium" = "Upgrade to premium";
 "ThisItemIsArchived" = "This item is archived.";
 "YourPremiumSubscriptionEnded" = "Your Premium subscription ended";

@@ -50,6 +50,7 @@
 "Move" = "Přesunout";
 "Saving" = "Ukládání...";
 "Settings" = "Nastavení";
+"ShowNextCode" = "Zobrazit další kód";
 "ItemDeleted" = "Položka byla smazána";
 "Submit" = "Odeslat";
 "UseFingerprintToUnlock" = "Pro odemknutí použít otisk prstu";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Nástroje Bitwarden";
 "ImportSuccessful" = "Import byl úspěšný!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Spravujte přihlašovací údaje odkudkoli pomocí nástrojů Bitwarden pro web i počítač.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Spravujte svoje předplatné ve webové aplikaci Bitwarden.";
 "DownloadTheBrowserExtension" = "Stáhnout rozšíření prohlížeče";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Přejděte na bitwarden.com/download a integrujte Bitwarden do svého oblíbeného prohlížeče pro bezproblémové používání.";
 "UseTheWebApp" = "Použít webovou aplikaci";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Nelze přesunout vybranou položku. Zkuste to znovu.";
 "Done" = "Hotovo";
 "Next" = "Další";
+"NextCode" = "Další kód";
 "CopyPublicKey" = "Kopírovat veřejný klíč";
 "CopyPrivateKey" = "Kopírovat soukromý klíč";
 "CopyFingerprint" = "Kopírovat otisk prstu";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Jakmile bude tato položka archivována, bude vyloučena z výsledků vyhledávání a z návrhů automatického vyplňování.";
 "ArchiveUnavailable" = "Archiv je nedostupný";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Archivace položek je prémiová funkce. Váš aktuální plán nezahrnuje přístup k této funkci.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Přidávání příloh je funkce Premium. Váš aktuální plán nezahrnuje přístup k této funkci.";
+"AttachmentsUnavailable" = "Přílohy nejsou k dispozici";
 "UpgradeToPremium" = "Aktualizovat na Premium";
 "ThisItemIsArchived" = "Tato položka je archivována.";
 "YourPremiumSubscriptionEnded" = "Vaše předplatné Premium skončilo";

@@ -50,6 +50,7 @@
 "Move" = "Переместить";
 "Saving" = "Сохранение…";
 "Settings" = "Настройки";
+"ShowNextCode" = "Показать следующий код";
 "ItemDeleted" = "Элемент удален";
 "Submit" = "Отправить";
 "UseFingerprintToUnlock" = "Использовать отпечаток пальца для разблокировки";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Инструменты Bitwarden";
 "ImportSuccessful" = "Импорт выполнен успешно!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Управляйте своими логинами из любого места с помощью инструментов Bitwarden в интернете и с компьютера.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Управляйте своим планом подписки в веб-приложении Bitwarden.";
 "DownloadTheBrowserExtension" = "Скачать расширение браузера";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Перейдите на bitwarden.com/download для интеграции Bitwarden в ваш любимый браузер для удобной работы.";
 "UseTheWebApp" = "Использовать веб-приложение";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Невозможно переместить выбранный элемент. Пожалуйста, попробуйте еще раз.";
 "Done" = "Готово";
 "Next" = "Далее";
+"NextCode" = "Следующий код";
 "CopyPublicKey" = "Скопировать публичный ключ";
 "CopyPrivateKey" = "Скопировать приватный ключ";
 "CopyFingerprint" = "Скопировать отпечаток";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "После архивации этот элемент будет исключен из результатов поиска и предложений по автозаполнению.";
 "ArchiveUnavailable" = "Архив недоступен";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Архивирование элементов является Премиум функцией. Она не входит в ваш текущий тарифный план.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Добавление вложений - это функция, доступная только в плане Премиум. Она не входит в ваш текущий тарифный план.";
+"AttachmentsUnavailable" = "Вложения недоступны";
 "UpgradeToPremium" = "Обновить до Премиум";
 "ThisItemIsArchived" = "Этот элемент архивирован.";
 "YourPremiumSubscriptionEnded" = "Ваша подписка Премиум закончилась";

@@ -50,6 +50,7 @@
 "Move" = "Verplaatsen";
 "Saving" = "Opslaan…";
 "Settings" = "Instellingen";
+"ShowNextCode" = "Volgende code tonen";
 "ItemDeleted" = "Item verwijderd";
 "Submit" = "Opslaan";
 "UseFingerprintToUnlock" = "Vingerafdruk gebruiken om te ontgrendelen";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Bitwarden-hulpmiddelen";
 "ImportSuccessful" = "Importeren gelukt!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Beheer je logins waar je ook bent met Bitwarden-hulpmiddelen voor web en desktop.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Je abonnement beheren in de Bitwarden-webapp.";
 "DownloadTheBrowserExtension" = "Browserextensie downloaden";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Ga naar bitwarden.com/download om Bitwarden in je favoriete browser te integreren voor een naadloze werking.";
 "UseTheWebApp" = "Gebruik de webapp";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Kan het geselecteerde item niet verplaatsen. Probeer het opnieuw.";
 "Done" = "Klaar";
 "Next" = "Volgende";
+"NextCode" = "Volgende code";
 "CopyPublicKey" = "Publieke sleutel kopiëren";
 "CopyPrivateKey" = "Privésleutel kopiëren";
 "CopyFingerprint" = "Vingerafdruk kopiëren";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Eenmaal gearchiveerd wordt dit item uitgesloten van zoekresultaten en suggesties voor automatisch invullen.";
 "ArchiveUnavailable" = "Archief niet beschikbaar";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Het archiveren van items is een Premium-functie. Toegang tot deze functie is niet inbegrepen in je huidige abonnement.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Bijlagen toevoegen is een Premium-functionaliteit. Toegang tot deze functionaliteit is niet inbegrepen in je huidige abonnement.";
+"AttachmentsUnavailable" = "Bijlagen niet beschikbaar";
 "UpgradeToPremium" = "Naar Premium upgraden";
 "ThisItemIsArchived" = "Dit item is gearchiveerd.";
 "YourPremiumSubscriptionEnded" = "Je Premium-abonnement is afgelopen";

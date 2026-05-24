@@ -50,6 +50,7 @@
 "Move" = "이동";
 "Saving" = "저장중...";
 "Settings" = "설정";
+"ShowNextCode" = "Show next code";
 "ItemDeleted" = "항목을 삭제했습니다.";
 "Submit" = "보내기";
 "UseFingerprintToUnlock" = "지문으로 잠금 해제";
@@ -381,7 +382,7 @@
 "MasterPasswordPolicyValidationTitle" = "유효하지 않은 비밀번호";
 "MasterPasswordPolicyValidationMessage" = "비밀번호가 조직 요구 사항을 충족하지 않습니다. 정책 정보를 확인해보고 다시 시도해보세요.";
 "Loading" = "불러오는 중";
-"LoadingSubscription" = "Loading subscription...";
+"LoadingSubscription" = "Loading subscription…";
 "AcceptPoliciesError" = "서비스 약관 및 개인 정보 보호 정책을 확인하지 않았습니다.";
 "PrivacyPolicy" = "개인 정보 보호 정책";
 "PersonalOwnershipPolicyInEffect" = "조직의 정책이 소유권 설정에 영향을 미치고 있습니다.";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Bitwarden tools";
 "ImportSuccessful" = "Import successful!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Manage your logins from anywhere with Bitwarden tools for web and desktop.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "Download the browser extension";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Go to bitwarden.com/download to integrate Bitwarden into your favorite browser for a seamless experience.";
 "UseTheWebApp" = "Use the web app";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Unable to move the selected item. Please try again.";
 "Done" = "완료";
 "Next" = "Next";
+"NextCode" = "Next code";
 "CopyPublicKey" = "공개 키 복사";
 "CopyPrivateKey" = "개인 키 복사";
 "CopyFingerprint" = "핑거프린트 복사";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Once archived, this item will be excluded from search results and autofill suggestions.";
 "ArchiveUnavailable" = "Archive unavailable";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Archiving items is a Premium feature. Your current plan does not include access to this feature.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "Attachments unavailable";
 "UpgradeToPremium" = "Upgrade to premium";
 "ThisItemIsArchived" = "This item is archived.";
 "YourPremiumSubscriptionEnded" = "프리미엄 구독이 끝났습니다";

@@ -50,6 +50,7 @@
 "Move" = "Áthelyezés";
 "Saving" = "Mentés…";
 "Settings" = "Beállítások";
+"ShowNextCode" = "Következő kód megjelenítése";
 "ItemDeleted" = "Az elem törlésre került.";
 "Submit" = "Mehet";
 "UseFingerprintToUnlock" = "Ujjlenyomat használata feloldáshoz";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Bitwarden eszközök";
 "ImportSuccessful" = "Sikeres importálás!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Kezelje a belépéseit bárhonnan a Bitwarden eszközök webes vagy asztali verziójával.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Az előfizetési csomag kezelése a Bitwarden webalkalmazásban.";
 "DownloadTheBrowserExtension" = "Töltse le a böngésző bővítményt";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Látogasson a bitwarden.com/download címre, hogy kifogástalan élményért kedvenc böngészőjébe integrálhassa a Bitwarden-t.";
 "UseTheWebApp" = "Használja a webes appot";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Nem helyezhető át a kijelölt elem. Próbálja újra.";
 "Done" = "Kész";
 "Next" = "Következő";
+"NextCode" = "Következő kód";
 "CopyPublicKey" = "Nyilvános kulcs másolása";
 "CopyPrivateKey" = "Személyes kulcs másolása";
 "CopyFingerprint" = "Ujjlenyomat másolása";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Az archiválás után ez az elem kizárásra kerül a keresési eredményekből és az automatikus kitöltési javaslatokból.";
 "ArchiveUnavailable" = "Az archívum nem elérhető.";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Az elemek archiválása prémium funkció. A jelenlegi csomag nem tartalmazza a hozzáférést ehhez a funkcióhoz.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "A mellékletek hozzáadása prémium funkció. A jelenlegi csomag nem tartalmazza a hozzáférést ehhez a funkcióhoz.";
+"AttachmentsUnavailable" = "A mellékletek nem érhetők el.";
 "UpgradeToPremium" = "Áttérés Prémium csomagra";
 "ThisItemIsArchived" = "Ez az elem archiválva van.";
 "YourPremiumSubscriptionEnded" = "A Prémium előfizetés véget ért.";

@@ -50,6 +50,7 @@
 "Move" = "Pindah";
 "Saving" = "Menyimpan…";
 "Settings" = "Setelan";
+"ShowNextCode" = "Show next code";
 "ItemDeleted" = "Item telah dihapus.";
 "Submit" = "Kirim";
 "UseFingerprintToUnlock" = "Gunakan sidik jari untuk membuka";
@@ -381,7 +382,7 @@
 "MasterPasswordPolicyValidationTitle" = "kata sandi salah";
 "MasterPasswordPolicyValidationMessage" = "Kata sandi tidak memenuhi persyaratan organisasi. Harap periksa informasi kebijakan dan coba lagi.";
 "Loading" = "Memuat";
-"LoadingSubscription" = "Loading subscription...";
+"LoadingSubscription" = "Loading subscription…";
 "AcceptPoliciesError" = "Persyaratan Layanan dan Kebijakan Privasi belum diakui.";
 "PrivacyPolicy" = "Kebijakan pribadi";
 "PersonalOwnershipPolicyInEffect" = "Kebijakan organisasi memengaruhi opsi kepemilikan anda.";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Alat Bitwarden";
 "ImportSuccessful" = "Impor Berhasil!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Kelola login Anda dari mana saja dengan alat Bitwarden untuk web dan desktop.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "Unduh ekstensi peramban";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Buka bitwarden.com/download untuk mengintegrasikan Bitwarden ke browser favorit Anda agar pengalaman lebih mulus.";
 "UseTheWebApp" = "Gunakan aplikasi web";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Tidak dapat memindahkan item yang dipilih. Silakan coba lagi.";
 "Done" = "Selesai";
 "Next" = "Lanjut";
+"NextCode" = "Next code";
 "CopyPublicKey" = "Salin kunci publik";
 "CopyPrivateKey" = "Salin kunci pribadi";
 "CopyFingerprint" = "Salin sidik jari";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Once archived, this item will be excluded from search results and autofill suggestions.";
 "ArchiveUnavailable" = "Arsip tidak tersedia";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Mengarsipkan item adalah fitur Premium. Paket Anda saat ini tidak termasuk akses ke fitur ini.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "Attachments unavailable";
 "UpgradeToPremium" = "Tingkatkan ke premium";
 "ThisItemIsArchived" = "Item ini diarsipkan.";
 "YourPremiumSubscriptionEnded" = "Langganan Premium Anda telah berakhir";

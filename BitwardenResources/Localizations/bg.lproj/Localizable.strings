@@ -50,6 +50,7 @@
 "Move" = "Преместване";
 "Saving" = "Запазване…";
 "Settings" = "Настройки";
+"ShowNextCode" = "Показване на следващия код";
 "ItemDeleted" = "Елементът беше изтрит.";
 "Submit" = "Подаване";
 "UseFingerprintToUnlock" = "Отключване с пръстов отпечатък";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Инструменти на Битуорден";
 "ImportSuccessful" = "Внасянето е успешно!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Управлявайте данните си за вписване, където и да се намирате, с инструментите на Битуорден налични в уеб и настолното приложение.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Управлявайте абонаментния си план в приложението по уеб на Битоурден.";
 "DownloadTheBrowserExtension" = "Свалете добавката за браузър";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Посетете bitwarden.com/download, за да вградите Битуорден в любимия си браузър и да използвате възможностите му по-лесно.";
 "UseTheWebApp" = "Използвайте приложението по уеб";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Избраният елемент не може да бъде преместен. Моля, опитайте отново.";
 "Done" = "Готово";
 "Next" = "Следващо";
+"NextCode" = "Следващ код";
 "CopyPublicKey" = "Копиране на публичния ключ";
 "CopyPrivateKey" = "Копиране на частния ключ";
 "CopyFingerprint" = "Копиране на отпечатъка";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "След като бъде архивиран, този елемент няма да се показва в резултатите при търсене, нито в предложенията за автоматично попълване.";
 "ArchiveUnavailable" = "Архивирането не е налично";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Архивирането на елементи е платена функционалност. Текущият Ви план не включва достъп до нея.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Прикачването на файлове е платена функционалност. Текущият Ви план не включва достъп до нея.";
+"AttachmentsUnavailable" = "Прикачването на файлове не е налично";
 "UpgradeToPremium" = "Надградете до Платения план";
 "ThisItemIsArchived" = "Този елемент е архивиран.";
 "YourPremiumSubscriptionEnded" = "Вашият абонамент за платения план е приключил";

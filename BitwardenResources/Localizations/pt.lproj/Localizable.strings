@@ -50,6 +50,7 @@
 "Move" = "Mover";
 "Saving" = "A guardar…";
 "Settings" = "Definições";
+"ShowNextCode" = "Mostrar próximo código";
 "ItemDeleted" = "Item eliminado";
 "Submit" = "Submeter";
 "UseFingerprintToUnlock" = "Utilizar a impressão digital para desbloquear";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Ferramentas do Bitwarden";
 "ImportSuccessful" = "Importação bem-sucedida!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Gira as suas credenciais a partir de qualquer lugar com as ferramentas do Bitwarden para a web e computador.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Faça a gestão do seu plano de subscrição na aplicação web do Bitwarden.";
 "DownloadTheBrowserExtension" = "Transferir a extensão do navegador";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Vá a bitwarden.com/download para integrar o Bitwarden no seu navegador favorito para uma experiência perfeita.";
 "UseTheWebApp" = "Utilize a aplicação web";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Não foi possível mover o item selecionado. Por favor, tente novamente.";
 "Done" = "Concluído";
 "Next" = "Seguinte";
+"NextCode" = "Código seguinte";
 "CopyPublicKey" = "Copiar chave pública";
 "CopyPrivateKey" = "Copiar chave privada";
 "CopyFingerprint" = "Copiar impressão digital";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Depois de arquivado, este item será excluído dos resultados de pesquisa e das sugestões de preenchimento automático.";
 "ArchiveUnavailable" = "Arquivo indisponível";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "O arquivo de itens é uma funcionalidade Premium. O seu plano atual não inclui acesso a esta funcionalidade.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adicionar anexos é uma funcionalidade Premium. O seu plano atual não inclui acesso a esta funcionalidade.";
+"AttachmentsUnavailable" = "Anexos indisponíveis";
 "UpgradeToPremium" = "Atualize para o Premium";
 "ThisItemIsArchived" = "Este item está arquivado.";
 "YourPremiumSubscriptionEnded" = "A sua subscrição Premium terminou";

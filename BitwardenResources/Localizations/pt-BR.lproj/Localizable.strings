@@ -50,6 +50,7 @@
 "Move" = "Mover";
 "Saving" = "Salvando…";
 "Settings" = "Configurações";
+"ShowNextCode" = "Mostrar próximo código";
 "ItemDeleted" = "Item apagado";
 "Submit" = "Enviar";
 "UseFingerprintToUnlock" = "Usar impressão digital para desbloquear";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Ferramentas do Bitwarden";
 "ImportSuccessful" = "Importação bem-sucedida!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Gerencie suas credenciais a partir de qualquer lugar com as ferramentas do Bitwarden para web e computador.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "Baixe a extensão para navegador";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Acesse bitwarden.com/download para integrar o Bitwarden ao seu navegador favorito e ter uma experiência fluida.";
 "UseTheWebApp" = "Use o aplicativo web";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Não é possível mover o item selecionado. Tente novamente.";
 "Done" = "Pronto";
 "Next" = "Avançar";
+"NextCode" = "Next code";
 "CopyPublicKey" = "Copiar chave pública";
 "CopyPrivateKey" = "Copiar chave privada";
 "CopyFingerprint" = "Copiar impressão digital";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Ao arquivar, o item será excluído dos resultados de busca e das sugestões de preenchimento automático.";
 "ArchiveUnavailable" = "Arquivo indisponível";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "O arquivamento de itens é um recurso do Premium. O seu plano atual não inclui o acesso a este recurso.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "Anexos indisponíveis";
 "UpgradeToPremium" = "Fazer upgrade ao Premium";
 "ThisItemIsArchived" = "Este item está arquivado.";
 "YourPremiumSubscriptionEnded" = "Sua assinatura Premium terminou";

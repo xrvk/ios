@@ -50,6 +50,7 @@
 "Move" = "העבר";
 "Saving" = "שומר…";
 "Settings" = "הגדרות";
+"ShowNextCode" = "Show next code";
 "ItemDeleted" = "הפריט נמחק";
 "Submit" = "שלח";
 "UseFingerprintToUnlock" = "השתמש בטביעת אצבע לפתיחה";
@@ -381,7 +382,7 @@
 "MasterPasswordPolicyValidationTitle" = "סיסמה לא חוקית";
 "MasterPasswordPolicyValidationMessage" = "הסיסמה אינה עומדת בדרישות הארגון. אנא בדוק את פרטי מדיניות הסיסמאות ונסה שנית.";
 "Loading" = "טוען";
-"LoadingSubscription" = "Loading subscription...";
+"LoadingSubscription" = "Loading subscription…";
 "AcceptPoliciesError" = "לא הסכמת לתנאי השירות ומדיניות הפרטיות.";
 "PrivacyPolicy" = "מדיניות הפרטיות";
 "PersonalOwnershipPolicyInEffect" = "מדיניות ארגונית משפיעה על אפשרויות הבעלות שלך.";
@@ -748,6 +749,7 @@
 "BitwardenTools" = "כלים של Bitwarden";
 "ImportSuccessful" = "הייבוא הצליח!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "נהל את כל הכניסות שלך מכל מקום עם הכלים של Bitwarden לרשת ושולחן העבודה.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "הורד את הרחבת הדפדפן";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "לך אל bitwarden.com/download כדי לשלב את Bitwarden לתוך הדפדפן המועדף שלך עבור חוויה חלקה.";
 "UseTheWebApp" = "השתמש ביישום הרשת";
@@ -772,6 +774,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "לא ניתן להעביר את הפריט הנבחר. נא לנסות שוב.";
 "Done" = "בוצע";
 "Next" = "הבא";
+"NextCode" = "Next code";
 "CopyPublicKey" = "העתק מפתח ציבורי";
 "CopyPrivateKey" = "העתק מפתח פרטי";
 "CopyFingerprint" = "העתק טביעת אצבע";
@@ -1005,6 +1008,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Once archived, this item will be excluded from search results and autofill suggestions.";
 "ArchiveUnavailable" = "הארכיב אינו זמין";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "ארכוב פריטים היא תכולת פרמיום. התכנית הנוכחית שלך אינה כוללת גישה לתכולה זו.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "Attachments unavailable";
 "UpgradeToPremium" = "שדרוג לפרמיום";
 "ThisItemIsArchived" = "פריט זה בארכיב.";
 "YourPremiumSubscriptionEnded" = "Your Premium subscription ended";

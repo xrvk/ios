@@ -50,6 +50,7 @@
 "Move" = "Pārvietot";
 "Saving" = "Saglabā…";
 "Settings" = "Iestatījumi";
+"ShowNextCode" = "Show next code";
 "ItemDeleted" = "Vienums ir izdzēsts";
 "Submit" = "Iesniegt";
 "UseFingerprintToUnlock" = "Izmantot pirkstu nospiedumu, lai atslēgtu";
@@ -381,7 +382,7 @@
 "MasterPasswordPolicyValidationTitle" = "Nederīga parole";
 "MasterPasswordPolicyValidationMessage" = "Parole neatbilst apvienības prasībām. Lūgums pārskatīt nosacījumus un mēģināt vēlreiz.";
 "Loading" = "Ielādē";
-"LoadingSubscription" = "Loading subscription...";
+"LoadingSubscription" = "Loading subscription…";
 "AcceptPoliciesError" = "Nav apstiprināti izmantošanas noteikumi un privātuma nosacījumi.";
 "PrivacyPolicy" = "Privātuma nosacījumi";
 "PersonalOwnershipPolicyInEffect" = "Apvienības nosacījumi ietekmē Tavas īpašumtiesību iespējas.";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Bitwarden rīki";
 "ImportSuccessful" = "Ievietošana veiksmīga.";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Pārvaldi savus pieteikšanāš vienumus no jebkurienes ar Bitwarden tīmekļa un darbvirsmas rīkiem!";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Abonēšanas plāns ir pārvaldāms Bitwarden tīmekļa lietotnē.";
 "DownloadTheBrowserExtension" = "Lejupielādēt pārlūka paplašinājumu";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Jādodas uz bitwarden.com/download, lai iekļautu Bitwarden savā iecienītākajā pārlūkā, lai iegūtu nevainojamu pieredzi.";
 "UseTheWebApp" = "Izmantot tīmekļa lietotni";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Nebija iespējams pārvietot atlasīto vienumu. Lūgumus mēģināt vēlreiz.";
 "Done" = "Darīts";
 "Next" = "Turpināt";
+"NextCode" = "Nākamais kods";
 "CopyPublicKey" = "Ievietot starpliktuvē publisko atslēgu";
 "CopyPrivateKey" = "Ievietot starpliktuvē privāto atslēgu";
 "CopyFingerprint" = "Ievietot starpliktuvē pirkstu nospiedumu";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Once archived, this item will be excluded from search results and autofill suggestions.";
 "ArchiveUnavailable" = "Arhīvs nav pieejams";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Vienumu ievietošana arhīvā ir Premium iespēja. Pašreizējais plāns neiekļauj piekļuvi tai.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Pielikumu pievienošana ir Premium iespēja. Pašreizējais plāns neiekļauj piekļuvi tai.";
+"AttachmentsUnavailable" = "Attachments unavailable";
 "UpgradeToPremium" = "Uzlabot uz Premium";
 "ThisItemIsArchived" = "Šis vienums ir ievietots arhīvā.";
 "YourPremiumSubscriptionEnded" = "Your Premium subscription ended";

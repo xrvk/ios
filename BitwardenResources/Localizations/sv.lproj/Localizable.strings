@@ -50,6 +50,7 @@
 "Move" = "Flytta";
 "Saving" = "Sparar…";
 "Settings" = "Inställningar";
+"ShowNextCode" = "Show next code";
 "ItemDeleted" = "Objektet har raderats";
 "Submit" = "Skicka";
 "UseFingerprintToUnlock" = "Använd fingeravtryck för att låsa upp";
@@ -381,7 +382,7 @@
 "MasterPasswordPolicyValidationTitle" = "Ogiltigt lösenord";
 "MasterPasswordPolicyValidationMessage" = "Lösenordet uppfyller inte organisationens krav. Kontrollera policyn och försök igen.";
 "Loading" = "Laddar";
-"LoadingSubscription" = "Loading subscription...";
+"LoadingSubscription" = "Loading subscription…";
 "AcceptPoliciesError" = "Användarvillkoren och Integritetspolicyn har inte accepterats.";
 "PrivacyPolicy" = "Integritetspolicy";
 "PersonalOwnershipPolicyInEffect" = "En organisationspolicy påverkar dina ägarskapsalternativ.";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Bitwarden-verktyg";
 "ImportSuccessful" = "Importen lyckades!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Hantera dina inloggningar var som helst med Bitwarden-verktyg för webben och skrivbordet.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "Hämta ner webbläsartillägget";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Gå till bitwarden.com/download för att integrera Bitwarden i din favoritwebbläsare och få en smidig upplevelse.";
 "UseTheWebApp" = "Använd webbappen";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Det går inte att flytta det valda objektet. Vänligen försök igen.";
 "Done" = "Klar";
 "Next" = "Nästa";
+"NextCode" = "Next code";
 "CopyPublicKey" = "Kopiera offentlig nyckel";
 "CopyPrivateKey" = "Kopiera privat nyckel";
 "CopyFingerprint" = "Kopiera fingeravtryck";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Once archived, this item will be excluded from search results and autofill suggestions.";
 "ArchiveUnavailable" = "Arkivet inte tillgängligt";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Arkivering av objekt är en Premium-funktion. Din nuvarande plan inkluderar inte tillgång till denna funktion.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "Attachments unavailable";
 "UpgradeToPremium" = "Uppgradera till premium";
 "ThisItemIsArchived" = "Detta objekt är arkiverat.";
 "YourPremiumSubscriptionEnded" = "Ditt Premium-abonnemang avslutades";

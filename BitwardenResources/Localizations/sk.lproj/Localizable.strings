@@ -50,6 +50,7 @@
 "Move" = "Presunúť";
 "Saving" = "Ukladá sa…";
 "Settings" = "Nastavenia";
+"ShowNextCode" = "Zobraziť ďalší kód";
 "ItemDeleted" = "Položka bola odstránená";
 "Submit" = "Potvrdiť";
 "UseFingerprintToUnlock" = "Na odomknutie použiť odtlačkov prsta";
@@ -570,7 +571,7 @@
 "YourRequestHasBeenSentToYourAdmin" = "Vaša žiadosť bola odoslaná správcovi.";
 "LoggingInAsX" = "Prihlasujete sa ako %1$@";
 "LoginApproved" = "Prihlásenie bolo schválené";
-"LogInWithDevice" = "Prihlásiť pomocou zariadenia";
+"LogInWithDevice" = "Prihlásiť sa pomocou zariadenia";
 "LoggingInOn" = "Server";
 "Vault" = "Trezor";
 "Appearance" = "Vzhľad";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Nástroje Bitwardenu";
 "ImportSuccessful" = "Import úspešný!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Spravujte svoje prihlasovacie údaje kdekoľvek s nástrojmi Bitwardenu pre web a desktop.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Spravujte predplatné vo webovej aplikácii Bitwarden.";
 "DownloadTheBrowserExtension" = "Stiahnuť rozšírenie pre prehliadač";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Pre pohodlné použivanie prejdite na stránku bitwarden.com/download a integrujte Bitwarden do svojho obľúbeného prehliadača.";
 "UseTheWebApp" = "Použiť webovú aplikáciu";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Nepodarilo sa presunúť vybranú položku. Skúste to znova, prosím.";
 "Done" = "Hotovo";
 "Next" = "Ďalej";
+"NextCode" = "Ďalší kód";
 "CopyPublicKey" = "Kopírovať verejný kľúč";
 "CopyPrivateKey" = "Kopírovať súkromný kľúč";
 "CopyFingerprint" = "Kopírovať odtlačok prsta";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Po archivácii bude táto položka vylúčená z výsledkov vyhľadávania a návrhov automatického vypĺňania.";
 "ArchiveUnavailable" = "Archív je nedostupný";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Archivovanie položiek je prémiová funkcia. Váš aktuálny plán nezahŕňa prístup k tejto funkcii.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Pridávanie príloh je prémiová funkcia. Váš aktuálny plán nezahŕňa prístup k tejto funkcii.";
+"AttachmentsUnavailable" = "Prílohy nie sú k dispozícii";
 "UpgradeToPremium" = "Upgradovať na Prémium";
 "ThisItemIsArchived" = "Táto položka je archivovaná.";
 "YourPremiumSubscriptionEnded" = "Vaše predplatné Prémium skončilo";

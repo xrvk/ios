@@ -50,6 +50,7 @@
 "Move" = "Sposta";
 "Saving" = "Salvataggio in corso…";
 "Settings" = "Impostazioni";
+"ShowNextCode" = "Show next code";
 "ItemDeleted" = "Elemento eliminato";
 "Submit" = "Invia";
 "UseFingerprintToUnlock" = "Usa l'impronta digitale per sbloccare";
@@ -381,7 +382,7 @@
 "MasterPasswordPolicyValidationTitle" = "Password non valida";
 "MasterPasswordPolicyValidationMessage" = "La password non soddisfa i requisiti dell'organizzazione. Controlla i criteri password dell'organizzazione e riprova.";
 "Loading" = "Caricamento";
-"LoadingSubscription" = "Loading subscription...";
+"LoadingSubscription" = "Loading subscription…";
 "AcceptPoliciesError" = "I Termini di Servizio e l'Informativa sulla Privacy non sono stati accettati.";
 "PrivacyPolicy" = "Informativa sulla Privacy";
 "PersonalOwnershipPolicyInEffect" = "Una politica dell'organizzazione sta influenzando le tue opzioni di proprietà.";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Strumenti Bitwarden";
 "ImportSuccessful" = "Importazione completata.";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Gestisci gli account e le tue password da qualsiasi luogo con gli strumenti Bitwarden per Web e desktop.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "Scarica l'estensione del browser";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Per un'esperienza ottimale, installa l'estensione Bitwarden (disponibile per i browser più diffusi): vai su bitwarden.com/download.";
 "UseTheWebApp" = "Vai alla versione Web di Bitwarden";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Impossibile spostare l'elemento selezionato. Riprova.";
 "Done" = "Completato";
 "Next" = "Prossimo";
+"NextCode" = "Next code";
 "CopyPublicKey" = "Copia chiave pubblica";
 "CopyPrivateKey" = "Copia chiave privata";
 "CopyFingerprint" = "Copia impronta";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Once archived, this item will be excluded from search results and autofill suggestions.";
 "ArchiveUnavailable" = "Archivio non disponibile";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "L'archiviazione è una funzionalità Premium. Il tuo piano attuale non include questa funzionalità.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "Allegati non disponibili";
 "UpgradeToPremium" = "Passa a Premium";
 "ThisItemIsArchived" = "Questo elemento è archiviato.";
 "YourPremiumSubscriptionEnded" = "Il tuo abbonamento Premium è terminato";

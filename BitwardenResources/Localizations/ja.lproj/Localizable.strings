@@ -50,6 +50,7 @@
 "Move" = "移動";
 "Saving" = "保存中…";
 "Settings" = "設定";
+"ShowNextCode" = "次のコードを表示";
 "ItemDeleted" = "アイテムを削除しました。";
 "Submit" = "送信";
 "UseFingerprintToUnlock" = "指紋認証でロック解除";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Bitwarden ツール";
 "ImportSuccessful" = "インポート成功！";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Bitwarden ツールでログイン情報をどこからでも管理できます。";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Bitwarden ウェブアプリでサブスクリプションプランを管理します。";
 "DownloadTheBrowserExtension" = "ブラウザーの拡張機能をダウンロード";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "bitwarden.com/download にアクセスして、Bitwarden をお気に入りのブラウザから利用しましょう。";
 "UseTheWebApp" = "Webアプリを使用する";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "選択したアイテムを移動できません。もう一度やり直してください。";
 "Done" = "完了";
 "Next" = "次へ";
+"NextCode" = "Next code";
 "CopyPublicKey" = "公開鍵をコピー";
 "CopyPrivateKey" = "秘密鍵をコピー";
 "CopyFingerprint" = "フィンガープリントをコピー";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "アーカイブすると、このアイテムは検索結果と自動入力の候補から除外されます。";
 "ArchiveUnavailable" = "アーカイブは利用できません";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Archiving items is a Premium feature. Your current plan does not include access to this feature.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "添付ファイルはプレミアム機能です。現在のプランにはこの機能へのアクセス権が含まれていません。";
+"AttachmentsUnavailable" = "添付ファイルは利用できません";
 "UpgradeToPremium" = "Upgrade to premium";
 "ThisItemIsArchived" = "This item is archived.";
 "YourPremiumSubscriptionEnded" = "Your Premium subscription ended";

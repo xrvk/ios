@@ -50,6 +50,7 @@
 "Move" = "移動";
 "Saving" = "儲存中…";
 "Settings" = "設定";
+"ShowNextCode" = "顯示下一個驗證碼";
 "ItemDeleted" = "已刪除項目";
 "Submit" = "送出";
 "UseFingerprintToUnlock" = "使用指紋解鎖";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Bitwarden 工具";
 "ImportSuccessful" = "匯入成功!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "在任何地方使用 Bitwarden 網頁或桌面應用程式來管理您的登入資訊。";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "下載瀏覽器擴充套件";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "瀏覽到 bitwarden.com/download 來結合 Bitwarden 到您最愛的瀏覽器提供最好的體驗。";
 "UseTheWebApp" = "使用網頁應用程式";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "無法移動所選擇的項目。請稍後重試。";
 "Done" = "完成";
 "Next" = "下一步";
+"NextCode" = "Next code";
 "CopyPublicKey" = "複製公開金鑰";
 "CopyPrivateKey" = "複製私密金鑰";
 "CopyFingerprint" = "複製指紋";
@@ -1005,6 +1008,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "封存後，此項目將不會顯示在搜尋結果與自動填入建議中。";
 "ArchiveUnavailable" = "封存不可用";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "封存項目為進階版功能。您目前的方案不包含此功能。";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "附件不可用";
 "UpgradeToPremium" = "升級到 Premium";
 "ThisItemIsArchived" = "此項目已被封存。";
 "YourPremiumSubscriptionEnded" = "您的進階版訂閱已到期";

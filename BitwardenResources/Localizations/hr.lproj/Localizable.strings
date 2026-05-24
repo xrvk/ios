@@ -50,6 +50,7 @@
 "Move" = "Premjesti";
 "Saving" = "Spremanje…";
 "Settings" = "Postavke";
+"ShowNextCode" = "Prikaži sljedeći kôd";
 "ItemDeleted" = "Stavka izbrisana";
 "Submit" = "Pošalji";
 "UseFingerprintToUnlock" = "Koristi otisak prsta za otključavanje";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Bitwarden alati";
 "ImportSuccessful" = "Uvoz uspješan!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Upravljaj svojim prijavama bilo gdje s Bitwarden alatima za web i stolna računala.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "Preuzmi proširenje za preglednik";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Posjeti bitwarden.com/download za integraciju Bitwardena u svoj omiljeni preglednik za besprijekorno iskustvo.";
 "UseTheWebApp" = "Koristi web aplikaciju";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Nije moguće premjestiti odabranu stavku. Pokušaj ponovno.";
 "Done" = "Gotovo";
 "Next" = "Sljedeće";
+"NextCode" = "Next code";
 "CopyPublicKey" = "Kopiraj javni ključ";
 "CopyPrivateKey" = "Kopiraj privatni ključ";
 "CopyFingerprint" = "Kopiraj otisak prsta";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Nakon arhiviranja, stavka će biti izuzeta iz rezultata pretrage i prijedloga auto-ispune.";
 "ArchiveUnavailable" = "Arhiva nedostupna";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Arhiviranje je Premium značajka. Tvoj trenutni paket ne uključuje pristup ovoj značajki.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "Privici nisu dostupni";
 "UpgradeToPremium" = "Nadogradnja na premium";
 "ThisItemIsArchived" = "Ova stavka je arhivirana.";
 "YourPremiumSubscriptionEnded" = "Toja Premium pretplata je završila";

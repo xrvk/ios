@@ -50,6 +50,7 @@
 "Move" = "نقل";
 "Saving" = "جاري الحفظ…";
 "Settings" = "الإعدادات";
+"ShowNextCode" = "إظهار الكود التالي";
 "ItemDeleted" = "تم حذف العنصر.";
 "Submit" = "إرسال";
 "UseFingerprintToUnlock" = "استخدام بصمة إصبعك لإلغاء القفل";
@@ -381,7 +382,7 @@
 "MasterPasswordPolicyValidationTitle" = "كلمة المرور غير صالحة";
 "MasterPasswordPolicyValidationMessage" = "كلمة المرور لا تفي بمتطلبات المؤسسة. الرجاء التحقق من معلومات السياسة وحاول مرة أخرى.";
 "Loading" = "جار التحميل";
-"LoadingSubscription" = "Loading subscription...";
+"LoadingSubscription" = "Loading subscription…";
 "AcceptPoliciesError" = "لم يتم الاعتراف بشروط الخدمة وسياسة الخصوصية.";
 "PrivacyPolicy" = "سياسة الخصوصيّة";
 "PersonalOwnershipPolicyInEffect" = "تؤثر سياسة مؤسسة على خيارات الملكية الخاصة بك.";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "أدوات بت واردن";
 "ImportSuccessful" = "نجاح الإستيراد!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "إدارة تسجيلات الدخول الخاصة بك من أي مكان باستخدام أدوات بت واردن للويب وسطح المكتب.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "تحميل ملحق المتصفح";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "اذهب إلى bitwarden.com/download لدمج بت واردن في المتصفح المفضل لديك للحصول على تجربة سلسة.";
 "UseTheWebApp" = "استخدام تطبيق الويب";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "غير قادر على نقل العنصر المحدد. الرجاء المحاولة مرة أخرى.";
 "Done" = "تم";
 "Next" = "التالي";
+"NextCode" = "Next code";
 "CopyPublicKey" = "اِنسخ المفتاح العام";
 "CopyPrivateKey" = "نسخ المفتاح الخاص";
 "CopyFingerprint" = "نسخ بصمة الإصبع";
@@ -1005,6 +1008,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "بمجرد الأرشفة، سيتم استبعاد هذا العنصر من نتائج البحث واقتراحات التعبئة التلقائية.";
 "ArchiveUnavailable" = "الأرشيف غير متوفر";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "أرشفة العناصر ميزة بريميوم. خطتك الحالية لا تشمل الوصول إلى هذه الميزة.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "المرفقات غير متوفرة";
 "UpgradeToPremium" = "Upgrade to premium";
 "ThisItemIsArchived" = "تم أرشفة هذا العنصر.";
 "YourPremiumSubscriptionEnded" = "إنتهاء اشتراكك البريميوم";

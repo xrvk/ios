@@ -50,6 +50,7 @@
 "Move" = "Перемістити";
 "Saving" = "Збереження…";
 "Settings" = "Налаштування";
+"ShowNextCode" = "Показати наступний код";
 "ItemDeleted" = "Запис видалено";
 "Submit" = "Відправити";
 "UseFingerprintToUnlock" = "Розблокуйте відбитком пальця";
@@ -381,7 +382,7 @@
 "MasterPasswordPolicyValidationTitle" = "Неправильний пароль";
 "MasterPasswordPolicyValidationMessage" = "Пароль не відповідає вимогам організації. Перевірте інформацію про політику і спробуйте знову.";
 "Loading" = "Завантаження";
-"LoadingSubscription" = "Loading subscription...";
+"LoadingSubscription" = "Loading subscription…";
 "AcceptPoliciesError" = "Умови користування та політика приватності не погоджені.";
 "PrivacyPolicy" = "Політика приватності";
 "PersonalOwnershipPolicyInEffect" = "Політика організації впливає на ваші параметри власності.";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Інструменти Bitwarden";
 "ImportSuccessful" = "Успішно імпортовано!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Керуйте своїми паролями звідусіль за допомогою вебінструментів та програм Bitwarden.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "Завантажте розширення браузера";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Відкрийте bitwarden.com/download, щоб інтегрувати Bitwarden у свій браузер для найкращої продуктивності.";
 "UseTheWebApp" = "Використовуйте вебпрограму";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Не вдалося перемістити вибраний запис. Повторіть спробу.";
 "Done" = "Виконано";
 "Next" = "Далі";
+"NextCode" = "Next code";
 "CopyPublicKey" = "Копіювати відкритий ключ";
 "CopyPrivateKey" = "Копіювати закритий ключ";
 "CopyFingerprint" = "Копіювати відбиток";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Після архівації цей запис буде виключено з результатів пошуку і пропозицій автозаповнення.";
 "ArchiveUnavailable" = "Архів недоступний";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Архівування записів є функцією Premium. Ваш поточний тарифний план не передбачає доступ до цієї функції.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Adding attachments is a Premium feature. Your current plan does not include access to this feature.";
+"AttachmentsUnavailable" = "Вкладення недоступні";
 "UpgradeToPremium" = "Покращити до Premium";
 "ThisItemIsArchived" = "Цей запис архівовано.";
 "YourPremiumSubscriptionEnded" = "Ваша передплата Premium завершилася";

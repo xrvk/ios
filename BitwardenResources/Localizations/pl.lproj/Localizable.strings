@@ -50,6 +50,7 @@
 "Move" = "Przenieś";
 "Saving" = "Zapisywanie…";
 "Settings" = "Ustawienia";
+"ShowNextCode" = "Pokaż następny kod";
 "ItemDeleted" = "Element został usunięty";
 "Submit" = "Prześlij";
 "UseFingerprintToUnlock" = "Odblokuj odciskiem palca";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Narzędzia Bitwarden";
 "ImportSuccessful" = "Importowanie zakończone!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Zarządzaj swoimi loginami z dowolnego miejsca za pomocą narzędzi Bitwarden dla przeglądarek i komputerów.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Manage your subscription plan in the Bitwarden web app.";
 "DownloadTheBrowserExtension" = "Pobierz rozszerzenie przeglądarki";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Przejdź do bitwarden.com/download, aby zintegrować Bitwarden z ulubioną przeglądarką i cieszyć się płynnym doświadczeniem.";
 "UseTheWebApp" = "Użyj aplikacji internetowej";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Nie można przenieść wybranego elementu. Spróbuj ponownie.";
 "Done" = "Gotowe";
 "Next" = "Dalej";
+"NextCode" = "Następny kod";
 "CopyPublicKey" = "Kopiuj klucz publiczny";
 "CopyPrivateKey" = "Kopiuj klucz prywatny";
 "CopyFingerprint" = "Kopiuj odcisk klucza";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Zarchiwizowany element zostanie wykluczony z wyników wyszukiwania i sugestii autouzupełniania.";
 "ArchiveUnavailable" = "Archiwum jest niedostępne";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Archiwizowanie elementów jest funkcją Premium. Twój obecny plan nie zawiera tej funkcji.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Dodawanie załączników jest funkcją Premium. Twój obecny plan nie zawiera tej funkcji.";
+"AttachmentsUnavailable" = "Załączniki są niedostępne";
 "UpgradeToPremium" = "Kup konto Premium";
 "ThisItemIsArchived" = "Element jest zarchiwizowany.";
 "YourPremiumSubscriptionEnded" = "Subskrypcja Premium wygasła";

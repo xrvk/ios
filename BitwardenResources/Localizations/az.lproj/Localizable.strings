@@ -50,6 +50,7 @@
 "Move" = "Daşı";
 "Saving" = "Saxlanılır…";
 "Settings" = "Ayarlar";
+"ShowNextCode" = "Növbəti kodu göstər";
 "ItemDeleted" = "Element silindi";
 "Submit" = "Göndər";
 "UseFingerprintToUnlock" = "Kilidi açmaq üçün barmaq izi istifadə et";
@@ -223,7 +224,7 @@
 "June" = "İyun";
 "LastName" = "Soyad";
 "FullName" = "Tam ad";
-"LicenseNumber" = "Lisenziya nömrəsi";
+"LicenseNumber" = "Sür. vəsiqəsi nömrəsi";
 "March" = "Mart";
 "May" = "May";
 "MiddleName" = "Orta ad";
@@ -747,6 +748,7 @@
 "BitwardenTools" = "Bitwarden alətləri";
 "ImportSuccessful" = "Daxilə köçürmə uğurludur!";
 "ManageYourLoginsFromAnywhereWithBitwardenToolsForWebAndDesktop" = "Bitwarden-in veb və masaüstü alətləri ilə istənilən yerdən girişlərinizi idarə edin.";
+"ManageYourSubscriptionPlanInTheBitwardenWebApp" = "Abunəlik planınızı Bitwarden veb tətbiqində idarə edin.";
 "DownloadTheBrowserExtension" = "Brauzer uzantısını endir";
 "GoToBitwardenToIntegrateBitwardenIntoYourFavoriteBrowserForASeamlessExperience" = "Daha problemsiz bir təcrübə üçün Bitwarden-i sevimli brauzerinizə inteqrasiya etmək üçün bitwarden.com/download ünvanına gedin.";
 "UseTheWebApp" = "Veb tətbiqi istifadə et";
@@ -771,6 +773,7 @@
 "UnableToMoveTheSelectedItemPleaseTryAgain" = "Seçilmiş element daşına bilmir. Lütfən yenidən sınayın.";
 "Done" = "Bitdi";
 "Next" = "Növbəti";
+"NextCode" = "Növbəti kod";
 "CopyPublicKey" = "Public açarı kopyala";
 "CopyPrivateKey" = "Private açarı kopyala";
 "CopyFingerprint" = "Barmaq izini kopyala";
@@ -1004,6 +1007,8 @@
 "OnceArchivedThisItemWillBeExcludedDescriptionLong" = "Arxivləndikdən sonra, bu element axtarış nəticələrindən və avto-doldurma təkliflərindən xaric ediləcək.";
 "ArchiveUnavailable" = "Arxiv əlçatmazdır";
 "ArchivingItemsIsAPremiumFeatureDescriptionLong" = "Elementləri arxivləmə, Premium bir özəllikdir. Hazırkı planınızda bu özəlliyə erişim yoxdur.";
+"AddingAttachmentsIsAPremiumFeatureDescriptionLong" = "Qoşmaların əlavə olunması, Premium bir özəllikdir. Hazırkı planınızda bu özəlliyə erişim yoxdur.";
+"AttachmentsUnavailable" = "Qoşma mövcud deyil";
 "UpgradeToPremium" = "\"Premium\"a yüksəlt";
 "ThisItemIsArchived" = "Bu element arxivləndi.";
 "YourPremiumSubscriptionEnded" = "Premium abunəliyiniz bitdi";
